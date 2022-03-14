@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-toe-e1177": {
+      "hosting": {
+        "tic-toe": [
+          "tic-toe-e1177"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-toe-e1177"
+  }
+}
